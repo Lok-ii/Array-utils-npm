@@ -7,7 +7,7 @@ Custom Array Utils is a collection of custom higher-order functions for working 
 You can install Array Utils via npm:
 
 ```bash
-npm install array-utils
+npm install custom-array-utils
 ```
 
 # Functions
